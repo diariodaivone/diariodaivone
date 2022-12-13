@@ -1,5 +1,5 @@
 
-[diário da ivone]([https://diariodaivone](https://diariodaivone.github.io)
+[diário da ivone](https://diariodaivone.github.io)
 <!--
 **diariodaivone/diariodaivone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
